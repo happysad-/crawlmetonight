@@ -1,4 +1,6 @@
-package happysad.crawlmetonight.crawler;
+package happysad.crawlmetonight.crawler.impl;
+
+import happysad.crawlmetonight.crawler.Crawler;
 
 /**
  * Crawler for crawling on an FTP / FTPS connections.

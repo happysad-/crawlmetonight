@@ -1,4 +1,6 @@
-package happysad.crawlmetonight.crawler;
+package happysad.crawlmetonight.crawler.impl;
+
+import happysad.crawlmetonight.crawler.Crawler;
 
 /**
  * Crawler for crawling on SMB (Server Message Blocks) or CIFS (Common Internet File System).
